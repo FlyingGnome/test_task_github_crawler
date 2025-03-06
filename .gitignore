@@ -1,0 +1,19 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+venv/
+
+# IDE files
+.vscode/
+.idea/
+
+# Coverage reports
+htmlcov/
+.coverage
+*.cover
+
+# Logs and local environment settings
+*.log
+.env

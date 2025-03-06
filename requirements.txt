@@ -1,0 +1,6 @@
+requests
+beautifulsoup4
+pytest
+pytest-cov
+requests-mock
+flake8
